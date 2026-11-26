@@ -54,6 +54,7 @@ Check all dimensions, complete the 3D model and save the design.
 
 ## OUTPUT DRAWING:
 
+<img width="798" height="565" alt="image" src="https://github.com/user-attachments/assets/b34f669b-0b17-4b32-b882-22b62f39d790" />
 
 
 ## RESULT:
